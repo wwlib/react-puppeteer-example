@@ -66,3 +66,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 #### puppeteer
 - https://www.freecodecamp.org/news/server-side-rendering-react-with-rails-using-puppeteer-cf5ec2697e88/
 - https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#pagepdfoptions
+- https://stackoverflow.com/questions/47587352/opening-local-html-file-using-puppeteer
+- https://github.com/GoogleChrome/puppeteer/issues/2123
