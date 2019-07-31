@@ -61,11 +61,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 #### reference
-- https://www.pluralsight.com/guides/react-router-typescript
-- https://codepen.io/satoshiyamamoto/pen/QGobmG
-- https://tylermcginnis.com/react-router-cannot-get-url-refresh/
-- https://blog.pshrmn.com/entry/simple-react-router-v4-tutorial/
-- https://reacttraining.com/react-router/
 - https://stackoverflow.com/questions/46235798/relative-path-in-index-html-after-build
 
 #### puppeteer
