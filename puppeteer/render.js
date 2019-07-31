@@ -2,7 +2,7 @@ const path = require('path');
 const puppeteer = require('puppeteer');
 
 // let renderPath = 'https://www.google.com';
-let renderPath = 'file:' + path.resolve(__dirname, '../build/index.html');
+let renderPath = 'file:' + path.resolve(__dirname, '../build/index.html#/topic3/subtopic1');
 
 
 console.log(renderPath);

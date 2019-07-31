@@ -1,6 +1,6 @@
 {
-  "short_name": "react-typescript-static-site-example",
-  "name": "react-typescript-static-site-example",
+  "short_name": "React Puppeteer Example",
+  "name": "React Puppeteer Example",
   "icons": [
     {
       "src": "favicon.ico",
